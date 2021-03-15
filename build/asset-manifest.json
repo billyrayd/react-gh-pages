@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/billyrayd/react-gh-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/billyrayd/react-gh-pages/static/js/main.1ec8e301.chunk.js",
+    "main.js.map": "/billyrayd/react-gh-pages/static/js/main.1ec8e301.chunk.js.map",
+    "runtime-main.js": "/billyrayd/react-gh-pages/static/js/runtime-main.c7cea6dc.js",
+    "runtime-main.js.map": "/billyrayd/react-gh-pages/static/js/runtime-main.c7cea6dc.js.map",
+    "static/js/2.767f27ed.chunk.js": "/billyrayd/react-gh-pages/static/js/2.767f27ed.chunk.js",
+    "static/js/2.767f27ed.chunk.js.map": "/billyrayd/react-gh-pages/static/js/2.767f27ed.chunk.js.map",
+    "static/js/3.76b63066.chunk.js": "/billyrayd/react-gh-pages/static/js/3.76b63066.chunk.js",
+    "static/js/3.76b63066.chunk.js.map": "/billyrayd/react-gh-pages/static/js/3.76b63066.chunk.js.map",
+    "index.html": "/billyrayd/react-gh-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/billyrayd/react-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.767f27ed.chunk.js.LICENSE.txt": "/billyrayd/react-gh-pages/static/js/2.767f27ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/billyrayd/react-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7cea6dc.js",
+    "static/js/2.767f27ed.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1ec8e301.chunk.js"
+  ]
+}
